@@ -136,11 +136,19 @@ I'm a CS grad student and developer at the intersection of **AI systems**, **ful
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanshusingh2903&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=divyanshusingh2903&show_icons=true&locale=en&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshusingh2903&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=divyanshusingh2903&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshusingh2903&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=divyanshusingh2903&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshusingh2903&theme=tokyo-night&hide_border=true"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=divyanshusingh2903&theme=radical&no-frame=true&row=1"/>
+
 </div>
 
 ---
